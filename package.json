@@ -1,0 +1,20 @@
+{
+  "name": "mastering-git",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elyassaa/learngithub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elyassaa/learngithub/issues"
+  },
+  "homepage": "https://github.com/Elyassaa/learngithub#readme",
+  "description": ""
+}
